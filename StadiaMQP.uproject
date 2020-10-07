@@ -8,5 +8,15 @@
 			"Name": "AudioSynesthesia",
 			"Enabled": true
 		}
+	],
+	"Modules": [
+		{
+			"Name": "StadiaMQP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
 	]
 }
