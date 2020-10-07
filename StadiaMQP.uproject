@@ -3,14 +3,10 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
-	"Modules": [
+	"Plugins": [
 		{
-			"Name": "StadiaMQP",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"Name": "AudioSynesthesia",
+			"Enabled": true
 		}
 	]
 }
