@@ -3,6 +3,15 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
+<<<<<<< HEAD
+=======
+	"Plugins": [
+		{
+			"Name": "AudioSynesthesia",
+			"Enabled": true
+		}
+	],
+>>>>>>> 395cc7aded56efd7fde76aa59455831d65f5704d
 	"Modules": [
 		{
 			"Name": "StadiaMQP",
