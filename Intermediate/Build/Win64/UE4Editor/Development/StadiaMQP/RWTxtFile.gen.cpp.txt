@@ -1,0 +1,5 @@
+C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\Definitions.StadiaMQP.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ninat\Documents\MQP\Game\Source\StadiaMQP/RWTxtFile.h
+c:\users\ninat\documents\mqp\game\intermediate\build\win64\ue4editor\inc\stadiamqp\RWTxtFile.generated.h

@@ -1,0 +1,3 @@
+C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\Definitions.StadiaMQP.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

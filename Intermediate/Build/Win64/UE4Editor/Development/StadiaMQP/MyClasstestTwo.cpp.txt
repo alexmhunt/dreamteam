@@ -1,0 +1,2 @@
+C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\Definitions.StadiaMQP.h
+c:\users\ninat\documents\mqp\game\source\stadiamqp\MyClasstestTwo.h

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StadiaMQP-0952.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\StadiaMQPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\RWTxtFile.cpp.obj"
+"C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\StadiaMQP.cpp.obj"
+"C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\RWTxtFile.gen.cpp.obj"
+"C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\StadiaMQP.init.gen.cpp.obj"
+"C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\Default.rc2.res"
+/OUT:"C:\Users\ninat\Documents\MQP\Game\Intermediate\Build\Win64\UE4Editor\Development\StadiaMQP\UE4Editor-StadiaMQP-0952.lib"
+/INCLUDE:IMPLEMENT_MODULE_StadiaMQP

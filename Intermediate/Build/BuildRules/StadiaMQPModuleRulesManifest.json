@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\dreamteam\\Source\\StadiaMQP\\StadiaMQP.Build.cs",
+		"E:\\Unreal Projects\\dreamteam\\Source\\StadiaMQP.Target.cs",
+		"E:\\Unreal Projects\\dreamteam\\Source\\StadiaMQPEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
