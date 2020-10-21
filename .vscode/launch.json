@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "StadiaMQP (Debug)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQP Win64 Debug Build",
+			"program": "C:\\Users\\ninat\\Documents\\MQP\\Game\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "StadiaMQP (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQP Win64 DebugGame Build",
+			"program": "C:\\Users\\ninat\\Documents\\MQP\\Game\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "StadiaMQP (Development)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQP Win64 Development Build",
+			"program": "C:\\Users\\ninat\\Documents\\MQP\\Game\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "StadiaMQP (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQP Win64 Shipping Build",
+			"program": "C:\\Users\\ninat\\Documents\\MQP\\Game\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "StadiaMQP (Test)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQP Win64 Test Build",
+			"program": "C:\\Users\\ninat\\Documents\\MQP\\Game\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "StadiaMQPEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQPEditor Win64 Debug Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\ninat\\Documents\\MQP\\Game\\StadiaMQP.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "StadiaMQPEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQPEditor Win64 DebugGame Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\ninat\\Documents\\MQP\\Game\\StadiaMQP.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "StadiaMQPEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "StadiaMQPEditor Win64 Development Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\ninat\\Documents\\MQP\\Game\\StadiaMQP.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\ninat\\Documents\\MQP\\Game\\StadiaMQP.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.25"
+		}
+	]
+}
