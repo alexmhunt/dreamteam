@@ -29,6 +29,18 @@
 			"Type": "Executable"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor-AudioSynesthesiaCore.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor-AudioSynesthesia.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor-AudioSynesthesiaEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2133,6 +2145,10 @@
 			"Type": "DynamicLibrary"
 		},
 		{
+			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-AudioAnalyzer.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-TreeMap.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2210,6 +2226,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor.version",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -2616,6 +2636,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/StadiaMQP.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin",
 			"Type": "UFS"
 		},
 		{
