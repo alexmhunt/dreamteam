@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/ninat/Documents/MQP/Game/.git": true,
+		"C:/Users/ninat/Documents/MQP/Game/.vscode": true,
+		"C:/Users/ninat/Documents/MQP/Game/Content": true,
+		"C:/Users/ninat/Documents/MQP/Game/DerivedDataCache": true,
+		"C:/Users/ninat/Documents/MQP/Game/Intermediate": true,
+		"C:/Users/ninat/Documents/MQP/Game/Saved": true
+	}
+}
