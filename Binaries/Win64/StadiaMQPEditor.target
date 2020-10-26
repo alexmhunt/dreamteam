@@ -29,6 +29,7 @@
 			"Type": "Executable"
 		},
 		{
+<<<<<<< HEAD
 			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor-AudioSynesthesiaCore.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -41,6 +42,8 @@
 			"Type": "DynamicLibrary"
 		},
 		{
+=======
+>>>>>>> 0fd21c68f6744d6e57fa7cb9601dda7e4500159e
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2145,10 +2148,13 @@
 			"Type": "DynamicLibrary"
 		},
 		{
+<<<<<<< HEAD
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-AudioAnalyzer.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
+=======
+>>>>>>> 0fd21c68f6744d6e57fa7cb9601dda7e4500159e
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-TreeMap.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2229,10 +2235,13 @@
 			"Type": "RequiredResource"
 		},
 		{
+<<<<<<< HEAD
 			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
+=======
+>>>>>>> 0fd21c68f6744d6e57fa7cb9601dda7e4500159e
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2639,10 +2648,13 @@
 			"Type": "UFS"
 		},
 		{
+<<<<<<< HEAD
 			"Path": "$(EngineDir)/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin",
 			"Type": "UFS"
 		},
 		{
+=======
+>>>>>>> 0fd21c68f6744d6e57fa7cb9601dda7e4500159e
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Type": "UFS"
 		},

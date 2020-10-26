@@ -2,6 +2,10 @@
 	"BuildId": "13144385",
 	"Modules": 
 	{
+<<<<<<< HEAD
 		"StadiaMQP": "UE4Editor-StadiaMQP.dll"
+=======
+		"StadiaMQP": "UE4Editor-StadiaMQP-1497.dll"
+>>>>>>> 0fd21c68f6744d6e57fa7cb9601dda7e4500159e
 	}
 }
