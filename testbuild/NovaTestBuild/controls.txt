@@ -1,0 +1,6 @@
+Keyboard controls:
+- P to pause
+
+Mouse controls:
+- Left click to fire
+- Move mouse to look around
