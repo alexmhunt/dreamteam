@@ -1,34 +1,44 @@
-8.215974 - NOTE CONTROLLER: Note spawned at location: X=185.993 Y=1267.680 Z=479.164
-9.224949 - NOTE CONTROLLER: Note spawned at location: X=697.648 Y=1439.423 Z=-18.364
-10.201006 - NOTE CONTROLLER: Note spawned at location: X=1064.989 Y=937.920 Z=-369.495
-10.401046 - PLAYER: Shot
-11.168698 - NOTE CONTROLLER: Note spawned at location: X=429.454 Y=1536.922 Z=-57.966
-11.293704 - PLAYER: Shot
-12.161094 - NOTE CONTROLLER: Note spawned at location: X=697.872 Y=1437.491 Z=-40.605
-12.327768 - PLAYER: Shot
-13.187578 - NOTE CONTROLLER: Note spawned at location: X=498.115 Y=1410.583 Z=283.786
-13.204247 - PLAYER: Shot
-14.198078 - NOTE CONTROLLER: Note spawned at location: X=665.223 Y=1098.667 Z=477.077
-14.308563 - PLAYER: Shot
-15.000252 - INPUT: Current Trial: 0
-15.000252 - INPUT: Latency: 0.0
-15.000252 - INPUT: Duration: 15.0
-15.000252 - INPUT: Multiplier: 150.0
-15.000252 - INPUT: Cooldown: 0.5
-15.000252 - INPUT: Amount of shots: 5
-15.000252 - INPUT: Amount of hits: 3
-15.000252 - INPUT: Total notes spawned: 7
-15.000252 - INPUT: Total notes not hit: 0
-23.111782 - NOTE CONTROLLER: Note spawned at location: X=230.971 Y=-1281.827 Z=-464.643
-24.128658 - NOTE CONTROLLER: Note spawned at location: X=377.178 Y=-1518.054 Z=-168.263
-24.372446 - PLAYER: Shot
-24.866619 - PLAYER: Shot
-24.99995 - INPUT: Current Trial: 1
-24.99995 - INPUT: Latency: 10.0
-24.99995 - INPUT: Duration: 10.0
-24.99995 - INPUT: Multiplier: 200.0
-24.99995 - INPUT: Cooldown: 1.0
-24.99995 - INPUT: Amount of shots: 2
-24.99995 - INPUT: Amount of hits: 0
-24.99995 - INPUT: Total notes spawned: 2
-24.99995 - INPUT: Total notes not hit: 0
+0.0 - PLAYER: Participant ID 
+0.0 - PLAYER: Participant ID 
+8.227974 - NOTE CONTROLLER: Note spawned at location: X=381.631 Y=1508.085 Z=243.187
+9.228026 - PLAYER: Shot
+9.228026 - NOTE CONTROLLER: Note spawned at location: X=234.880 Y=1575.029 Z=-77.645
+9.585586 - PLAYER: Shot
+9.585586 - PLAYER: Note hit at location:X=381.631 Y=1508.085 Z=243.187
+10.209915 - NOTE CONTROLLER: Note spawned at location: X=288.908 Y=1397.940 Z=-361.350
+10.220304 - PLAYER: Shot
+10.220304 - PLAYER: Note hit at location:X=234.880 Y=1575.029 Z=-77.645
+11.151915 - PLAYER: Shot
+11.151915 - PLAYER: Note hit at location:X=288.908 Y=1397.940 Z=-361.350
+11.186646 - NOTE CONTROLLER: Note spawned at location: X=331.144 Y=1478.799 Z=-256.660
+11.916295 - PLAYER: Shot
+11.916295 - PLAYER: Note hit at location:X=331.144 Y=1478.799 Z=-256.660
+12.16876 - NOTE CONTROLLER: Note spawned at location: X=470.380 Y=1363.408 Z=-346.361
+12.90291 - PLAYER: Shot
+12.90291 - PLAYER: Note hit at location:X=470.380 Y=1363.408 Z=-346.361
+13.203132 - NOTE CONTROLLER: Note spawned at location: X=26.326 Y=1494.213 Z=-285.760
+14.199117 - NOTE CONTROLLER: Note spawned at location: X=315.776 Y=1543.631 Z=139.184
+15.003921 - INPUT: Current Trial: 0
+15.003921 - INPUT: Latency: 0.0
+15.003921 - INPUT: Duration: 15.0
+15.003921 - INPUT: Multiplier: 150.0
+15.003921 - INPUT: Cooldown: 0.5
+15.003921 - INPUT: Amount of shots: 6
+15.003921 - INPUT: Amount of hits: 5
+15.003921 - INPUT: Total notes spawned: 7
+15.003921 - INPUT: Total notes not hit: 0
+15.193168 - PLAYER: Shot
+27.631134 - PLAYER: Shot
+35.446999 - NOTE CONTROLLER: Note spawned at location: X=1502.361 Y=841.453 Z=111.830
+36.45681 - NOTE CONTROLLER: Note spawned at location: X=1564.123 Y=144.379 Z=152.212
+36.474426 - PLAYER: Shot
+37.050583 - PLAYER: Shot
+37.229031 - INPUT: Current Trial: 1
+37.229031 - INPUT: Latency: 10.0
+37.229031 - INPUT: Duration: 10.0
+37.229031 - INPUT: Multiplier: 200.0
+37.229031 - INPUT: Cooldown: 1.0
+37.229031 - INPUT: Amount of shots: 4
+37.229031 - INPUT: Amount of hits: 0
+37.229031 - INPUT: Total notes spawned: 2
+37.229031 - INPUT: Total notes not hit: 0
