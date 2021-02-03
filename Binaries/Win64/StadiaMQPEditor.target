@@ -10,13 +10,13 @@
 	{
 		"MajorVersion": 4,
 		"MinorVersion": 26,
-		"PatchVersion": 0,
-		"Changelist": 14830424,
-		"CompatibleChangelist": 0,
+		"PatchVersion": 1,
+		"Changelist": 0,
+		"CompatibleChangelist": 14830424,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE4+Release-4.26",
-		"BuildId": "14830424"
+		"BuildId": "0ccbb0ec-96f2-44d2-bb87-47ac0afd4fc0"
 	},
 	"BuildProducts": [
 		{
@@ -1104,10 +1104,6 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-TextureFormatETC2.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-TargetPlatform.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -1153,6 +1149,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-MediaInfo.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Stadia/UE4Editor-StadiaMediaInfo.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -2128,6 +2128,50 @@
 			"Type": "DynamicLibrary"
 		},
 		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxNoEditorTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxAArch64NoEditorTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxClientTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxAArch64ClientTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxServerTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxAArch64ServerTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Stadia/UE4Editor-StadiaRuntimeSettings.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Stadia/UE4Editor-StadiaUtils.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Stadia/UE4Editor-StadiaTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Stadia/UE4Editor-StadiaPlatformEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-Engine.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2688,7 +2732,15 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Binaries/Win64/Stadia/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/Lumin/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor.modules",
 			"Type": "RequiredResource"
 		}
 	],
@@ -3127,6 +3179,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Platforms/Stadia/Plugins/Online/OnlineSubsystemStadia/OnlineSubsystemStadia.uplugin",
 			"Type": "UFS"
 		},
 		{
