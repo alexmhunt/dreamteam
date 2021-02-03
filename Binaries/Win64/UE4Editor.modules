@@ -1,7 +1,7 @@
 {
-	"BuildId": "13144385",
+	"BuildId": "14830424",
 	"Modules": 
 	{
-		"StadiaMQP": "UE4Editor-StadiaMQP-1497.dll"
+		"StadiaMQP": "UE4Editor-StadiaMQP.dll"
 	}
 }
