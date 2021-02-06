@@ -1,18 +1,27 @@
-0.0 - PLAYER: Participant ID 
-4.51204 - NOTE CONTROLLER: Note spawned at location: X=1850.000 Y=0.000 Z=0.000
-5.512054 - NOTE CONTROLLER: Note spawned at location: X=1497.387 Y=-82.390 Z=-278.856
-6.095403 - PLAYER: Shot
-6.095403 - PLAYER: Note hit at location:X=1850.000 Y=0.000 Z=0.000
-6.497506 - NOTE CONTROLLER: Note spawned at location: X=1206.618 Y=569.747 Z=-441.436
-7.470386 - NOTE CONTROLLER: Note spawned at location: X=605.846 Y=614.665 Z=-673.635
-8.45374 - NOTE CONTROLLER: Note spawned at location: X=1175.438 Y=-113.447 Z=-539.786
-9.47285 - NOTE CONTROLLER: Note spawned at location: X=627.423 Y=-476.510 Z=-696.290
-10.006197 - INPUT: Current Trial: 0
-10.006197 - INPUT: Latency: 0.0
-10.006197 - INPUT: Duration: 10.0
-10.006197 - INPUT: Multiplier: 1.5
-10.006197 - INPUT: Cooldown: 0.5
-10.006197 - INPUT: Amount of shots: 1
-10.006197 - INPUT: Amount of hits: 1
-10.006197 - INPUT: Total notes spawned: 6
-10.006197 - INPUT: Total notes not hit: 0
+5.491353 - NOTE CONTROLLER: Note spawned at location: X=1850.000 Y=0.000 Z=0.000
+6.493691 - NOTE CONTROLLER: Note spawned at location: X=1521.305 Y=-421.601 Z=-130.273
+7.484969 - NOTE CONTROLLER: Note spawned at location: X=1271.948 Y=-595.571 Z=-383.224
+8.43887 - NOTE CONTROLLER: Note spawned at location: X=1272.313 Y=-475.208 Z=-422.906
+8.625257 - PLAYER: Shot
+8.625257 - PLAYER: Note hit at location:X=1850.000 Y=0.000 Z=0.000
+9.447266 - NOTE CONTROLLER: Note spawned at location: X=1322.943 Y=-489.467 Z=-377.573
+9.765563 - PLAYER: Shot
+9.765563 - PLAYER: Note hit at location:X=1521.305 Y=-421.601 Z=-130.273
+10.010013 - INPUT: Current Trial: 0
+10.010013 - INPUT: Latency: 0.0
+10.010013 - INPUT: Duration: 10.0
+10.010013 - INPUT: Multiplier: 2.0
+10.010013 - INPUT: Cooldown: 0.5
+10.010013 - INPUT: Amount of shots: 2
+10.010013 - INPUT: Amount of hits: 2
+10.010013 - INPUT: Total notes spawned: 5
+10.010013 - INPUT: Total notes not hit: 0
+21.896894 - INPUT: Current Trial: 1
+21.896894 - INPUT: Latency: 0.0
+21.896894 - INPUT: Duration: 0.0
+21.896894 - INPUT: Multiplier: 0.0
+21.896894 - INPUT: Cooldown: 0.0
+21.896894 - INPUT: Amount of shots: 0
+21.896894 - INPUT: Amount of hits: 0
+21.896894 - INPUT: Total notes spawned: 0
+21.896894 - INPUT: Total notes not hit: 0
