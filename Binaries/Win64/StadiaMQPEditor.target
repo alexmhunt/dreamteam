@@ -16,7 +16,7 @@
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE4+Release-4.26",
-		"BuildId": "0ccbb0ec-96f2-44d2-bb87-47ac0afd4fc0"
+		"BuildId": "af3ea547-5a14-447e-9653-efd0879440c1"
 	},
 	"BuildProducts": [
 		{
@@ -2289,10 +2289,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.pdb",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5644,10 +5640,6 @@
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.pdb",
-			"Type": "DebugNonUFS"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/FreeImage/Win64/FreeImage.dll",
