@@ -1,25 +1,183 @@
-0.0 - INPUT: =========================================
-0.0 - INPUT: Current Trial: -1
-0.0 - INPUT: Latency: 0.0
-0.0 - INPUT: Duration: 0.0
-0.0 - INPUT: Multiplier: 0.0
-0.0 - INPUT: Cooldown: 0.0
-0.0 - INPUT: Song ID: 0.0
-0.0 - INPUT: Shots: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: Hits: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: Misses: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: Notes: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: LeftClicks: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: RightClicks: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: WrongLeft: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: WrongRight: 0
-0.0 - INPUT: =========================================
-0.0 - INPUT: LowHealth: 0
-0.0 - INPUT: =========================================
+0.0 - INPUT: Trial Number: 0
+5.500103 - NOTE CONTROLLER: Note ID: 0, spawned. TYPE: A, WINDOW: 1.082966
+7.483524 - NOTE CONTROLLER: Note ID: 1, spawned. TYPE: A, WINDOW: 1.0676
+9.383577 - PLAYER: LEFT click
+9.383577 - PLAYER: Shot
+9.383577 - PLAYER: Note hit at location:X=1850.000 Y=0.000 Z=0.000
+9.450245 - NOTE CONTROLLER: Note ID: 2, spawned. TYPE: A, WINDOW: 1.147863
+11.100281 - PLAYER: LEFT click
+11.100281 - PLAYER: Shot
+11.100281 - PLAYER: Note hit at location:X=1360.103 Y=746.591 Z=195.399
+11.467048 - NOTE CONTROLLER: Note ID: 3, spawned. TYPE: A, WINDOW: 1.13933
+12.383764 - NOTE CONTROLLER: Note ID: 0, destroyed
+12.717102 - PLAYER: LEFT click
+12.717102 - PLAYER: Shot
+12.717102 - PLAYER: Note hit at location:X=1065.195 Y=1186.278 Z=67.276
+13.45049 - NOTE CONTROLLER: Note ID: 4, spawned. TYPE: A, WINDOW: 1.013146
+14.100519 - NOTE CONTROLLER: Note ID: 1, destroyed
+14.533937 - PLAYER: LEFT click
+14.533937 - PLAYER: Shot
+14.533937 - PLAYER: Note hit at location:X=1089.592 Y=1106.447 Z=192.720
+15.484015 - NOTE CONTROLLER: Note ID: 5, spawned. TYPE: A, WINDOW: 1.130211
+15.717356 - NOTE CONTROLLER: Note ID: 2, destroyed
+16.634071 - PLAYER: LEFT click
+16.634071 - PLAYER: Shot
+16.634071 - PLAYER: Note hit at location:X=1355.580 Y=517.415 Z=337.152
+17.451046 - NOTE CONTROLLER: Note ID: 6, spawned. TYPE: A, WINDOW: 1.060665
+17.534378 - NOTE CONTROLLER: Note ID: 3, destroyed
+18.601826 - PLAYER: LEFT click
+18.601826 - PLAYER: Shot
+18.601826 - PLAYER: Note hit at location:X=1495.092 Y=-217.399 Z=-263.362
+19.468481 - NOTE CONTROLLER: Note ID: 7, spawned. TYPE: A, WINDOW: 1.007705
+19.635145 - NOTE CONTROLLER: Note ID: 4, destroyed
+21.235121 - PLAYER: LEFT click
+21.235121 - PLAYER: Shot
+21.235121 - PLAYER: Note hit at location:X=1263.300 Y=-608.087 Z=-385.456
+21.435118 - NOTE CONTROLLER: Note ID: 8, spawned. TYPE: A, WINDOW: 1.005059
+21.601782 - NOTE CONTROLLER: Note ID: 5, destroyed
+22.718443 - PLAYER: LEFT click
+22.718443 - PLAYER: Shot
+22.718443 - PLAYER: Note hit at location:X=1466.918 Y=-582.577 Z=131.107
+22.951773 - NOTE CONTROLLER: Note ID: 9, spawned. TYPE: B, WINDOW: 1.057514
+24.235088 - NOTE CONTROLLER: Note ID: 6, destroyed
+24.451752 - NOTE CONTROLLER: Note ID: 10, spawned. TYPE: A, WINDOW: 1.126507
+24.635082 - PLAYER: LEFT click
+24.635082 - PLAYER: Shot
+24.635082 - PLAYER: Note hit at location:X=1153.961 Y=-1099.504 Z=69.761
+25.718842 - NOTE CONTROLLER: Note ID: 7, destroyed
+26.035503 - NOTE CONTROLLER: Note ID: 11, spawned. TYPE: A, WINDOW: 1.126357
+26.352165 - PLAYER: RIGHT click
+26.352165 - PLAYER: Shot
+26.352165 - PLAYER: Note hit at location:X=961.212 Y=-1254.830 Z=123.970
+27.635483 - NOTE CONTROLLER: Note ID: 8, destroyed
+27.752148 - PLAYER: LEFT click
+27.752148 - PLAYER: Shot
+27.752148 - PLAYER: Note hit at location:X=1313.657 Y=-903.364 Z=-67.526
+28.452475 - NOTE CONTROLLER: Note ID: 12, spawned. TYPE: A, WINDOW: 1.101715
+29.352465 - NOTE CONTROLLER: Note ID: 9, destroyed
+29.669466 - PLAYER: LEFT click
+29.669466 - PLAYER: Shot
+29.669466 - PLAYER: Note hit at location:X=797.443 Y=-1333.153 Z=-191.564
+29.936129 - NOTE CONTROLLER: Note ID: 13, spawned. TYPE: A, WINDOW: 1.101715
+36.202858 - INPUT: Trial Number: 1
+37.552845 - NOTE CONTROLLER: Note ID: 0, spawned. TYPE: A, WINDOW: 1.08432
+39.186153 - NOTE CONTROLLER: Note ID: 1, spawned. TYPE: A, WINDOW: 1.574127
+40.702797 - NOTE CONTROLLER: Note ID: 2, spawned. TYPE: A, WINDOW: 1.465227
+40.952793 - PLAYER: LEFT click
+40.986126 - PLAYER: Shot
+40.986126 - PLAYER: Note hit at location:X=1850.000 Y=0.000 Z=0.000
+42.186111 - NOTE CONTROLLER: Note ID: 3, spawned. TYPE: A, WINDOW: 1.39471
+42.51944 - PLAYER: LEFT click
+42.552773 - PLAYER: Shot
+42.552773 - PLAYER: Note hit at location:X=1541.173 Y=-119.155 Z=-206.511
+43.6861 - NOTE CONTROLLER: Note ID: 4, spawned. TYPE: A, WINDOW: 1.39471
+43.902767 - PLAYER: LEFT click
+43.9361 - PLAYER: Shot
+43.9361 - PLAYER: Note hit at location:X=1356.697 Y=308.852 Z=-394.963
+43.986099 - NOTE CONTROLLER: Note ID: 0, destroyed
+45.436119 - NOTE CONTROLLER: Note ID: 5, spawned. TYPE: A, WINDOW: 1.475237
+45.552784 - PLAYER: LEFT click
+45.552784 - NOTE CONTROLLER: Note ID: 1, destroyed
+45.586117 - PLAYER: Shot
+45.586117 - PLAYER: Note hit at location:X=1470.166 Y=211.758 Z=-297.393
+46.939545 - NOTE CONTROLLER: Note ID: 2, destroyed
+46.939545 - NOTE CONTROLLER: Note ID: 6, spawned. TYPE: A, WINDOW: 1.525395
+47.272873 - PLAYER: LEFT click
+47.306206 - PLAYER: Shot
+47.306206 - PLAYER: Note hit at location:X=1138.394 Y=591.727 Z=-477.995
+48.439526 - NOTE CONTROLLER: Note ID: 7, spawned. TYPE: A, WINDOW: 1.453757
+48.589523 - NOTE CONTROLLER: Note ID: 3, destroyed
+49.539509 - PLAYER: LEFT click
+49.572842 - PLAYER: Shot
+49.572842 - PLAYER: Note hit at location:X=1076.010 Y=-33.969 Z=-591.829
+50.0895 - NOTE CONTROLLER: Note ID: 8, spawned. TYPE: A, WINDOW: 1.378569
+50.306164 - NOTE CONTROLLER: Note ID: 4, destroyed
+51.60619 - NOTE CONTROLLER: Note ID: 9, spawned. TYPE: A, WINDOW: 1.378569
+51.956184 - NOTE CONTROLLER: Note ID: 6, missed, health dropped
+51.956184 - NOTE CONTROLLER: Note ID: 6, destroyed
+52.572842 - NOTE CONTROLLER: Note ID: 5, destroyed
+53.106197 - NOTE CONTROLLER: Note ID: 10, spawned. TYPE: A, WINDOW: 1.444593
+53.389526 - NOTE CONTROLLER: Note ID: 7, missed, health dropped
+53.389526 - NOTE CONTROLLER: Note ID: 7, destroyed
+54.606178 - NOTE CONTROLLER: Note ID: 11, spawned. TYPE: B, WINDOW: 1.545794
+54.956173 - NOTE CONTROLLER: Note ID: 8, missed, health dropped
+54.956173 - NOTE CONTROLLER: Note ID: 8, destroyed
+55.356167 - PLAYER: LEFT click
+55.3895 - PLAYER: Shot
+55.3895 - PLAYER: Note hit at location:X=1441.297 Y=-616.010 Z=-160.620
+56.122822 - NOTE CONTROLLER: Note ID: 12, spawned. TYPE: A, WINDOW: 1.435688
+56.506149 - PLAYER: LEFT click
+56.539482 - PLAYER: Shot
+56.539482 - PLAYER: Note hit at location:X=1325.670 Y=-524.072 Z=-363.300
+57.689487 - NOTE CONTROLLER: Note ID: 13, spawned. TYPE: A, WINDOW: 1.435688
+57.77282 - PLAYER: RIGHT click
+57.806152 - PLAYER: Shot
+57.806152 - PLAYER: Note hit at location:X=1534.549 Y=-374.193 Z=127.613
+58.389477 - NOTE CONTROLLER: Note ID: 9, destroyed
+59.206131 - NOTE CONTROLLER: Note ID: 14, spawned. TYPE: A, WINDOW: 1.51124
+59.322796 - PLAYER: LEFT click
+59.356129 - PLAYER: Shot
+59.356129 - PLAYER: Note hit at location:X=1506.600 Y=-155.766 Z=-257.824
+59.539459 - NOTE CONTROLLER: Note ID: 10, destroyed
+60.722775 - NOTE CONTROLLER: Note ID: 15, spawned. TYPE: A, WINDOW: 1.47009
+60.806107 - NOTE CONTROLLER: Note ID: 11, destroyed
+61.872757 - PLAYER: LEFT click
+61.90609 - PLAYER: Shot
+61.90609 - PLAYER: Note hit at location:X=1305.424 Y=-850.784 Z=181.684
+62.22279 - NOTE CONTROLLER: Note ID: 16, spawned. TYPE: A, WINDOW: 1.405682
+62.356121 - NOTE CONTROLLER: Note ID: 12, destroyed
+62.972782 - PLAYER: LEFT click
+63.006115 - PLAYER: Shot
+63.006115 - PLAYER: Note hit at location:X=1259.155 Y=-275.545 Z=473.973
+63.70612 - NOTE CONTROLLER: Note ID: 17, spawned. TYPE: A, WINDOW: 1.405682
+64.189491 - PLAYER: LEFT click
+64.222832 - PLAYER: Shot
+64.222832 - PLAYER: Note hit at location:X=1444.390 Y=214.220 Z=327.050
+64.906357 - NOTE CONTROLLER: Note ID: 13, destroyed
+65.223091 - NOTE CONTROLLER: Note ID: 18, spawned. TYPE: A, WINDOW: 1.499617
+65.406464 - PLAYER: LEFT click
+65.439804 - PLAYER: Shot
+65.439804 - PLAYER: Note hit at location:X=1447.150 Y=639.764 Z=118.804
+66.006592 - NOTE CONTROLLER: Note ID: 14, destroyed
+69.357307 - INPUT: Trial Number: 2
+76.725937 - NOTE CONTROLLER: Note ID: 0, spawned. TYPE: A, WINDOW: 1.818135
+80.31012 - PLAYER: LEFT click
+80.393471 - PLAYER: Shot
+80.393471 - PLAYER: Note hit at location:X=1850.000 Y=0.000 Z=0.000
+83.394112 - NOTE CONTROLLER: Note ID: 0, destroyed
+92.579483 - NOTE CONTROLLER: Note ID: 1, spawned. TYPE: A, WINDOW: 1.918902
+94.063133 - NOTE CONTROLLER: Note ID: 2, spawned. TYPE: A, WINDOW: 1.784328
+95.780167 - NOTE CONTROLLER: Note ID: 3, spawned. TYPE: A, WINDOW: 1.784328
+96.113571 - PLAYER: LEFT click
+96.196922 - PLAYER: Shot
+96.196922 - PLAYER: Note hit at location:X=1850.000 Y=0.000 Z=0.000
+97.813934 - PLAYER: LEFT click
+97.897285 - PLAYER: Shot
+97.897285 - PLAYER: Note hit at location:X=1523.114 Y=481.604 Z=-45.222
+98.030647 - NOTE CONTROLLER: Note ID: 4, spawned. TYPE: A, WINDOW: 1.801191
+99.197563 - NOTE CONTROLLER: Note ID: 1, destroyed
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: Current Trial: 2
+101.498055 - INPUT: Latency: 100.0
+101.498055 - INPUT: Duration: 30.0
+101.498055 - INPUT: Multiplier: 1.0
+101.498055 - INPUT: Cooldown: 1.5
+101.498055 - INPUT: Song ID: 2.0
+101.498055 - INPUT: Shots: 3
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: Hits: 3
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: Misses: 0
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: Notes: 5
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: LeftClicks: 3
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: RightClicks: 0
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: WrongLeft: 0
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: WrongRight: 0
+101.498055 - INPUT: =========================================
+101.498055 - INPUT: LowHealth: 0
+101.498055 - INPUT: =========================================
