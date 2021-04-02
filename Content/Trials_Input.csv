@@ -1,0 +1,4 @@
+,latency,song,mult,cooldown
+trial 1,0,0,1,1.5
+trial 2,50,1,1,1.5
+trial 3,100,2,1,1.5
